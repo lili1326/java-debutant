@@ -1,4 +1,5 @@
 console.log('test');
+function calculMoyenne(notes){}
 
 let notes =[10 ,15,2,10];
  console.log(notes);
